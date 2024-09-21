@@ -3,7 +3,6 @@ languageCode = 'en-us'
 title = 'rxgoa'
 theme = 'cactus'
 
-
 [params]
   colortheme = "classic" # dark, light, white, or classic
   css = ["css/custom.css"]
