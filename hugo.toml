@@ -1,4 +1,4 @@
-baseURL = 'https://rxgoa.github.io/rxgoa.tech'
+baseURL = 'https://rxgoa.github.io/rxgoa.tech/'
 languageCode = 'en-us'
 title = 'rxgoa'
 theme = 'cactus'
