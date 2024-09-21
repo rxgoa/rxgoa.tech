@@ -1,0 +1,12 @@
+{{ define "main" }}
+  <h1>{{ .Title }}</h1>
+  <ul>
+    {{ range $project := index .Site.Data "projects" "list" }}
+    <li>
+      <h2>{{ $project.name }}</h2>
+      <p>{{ $project.desc }}</p>
+      <a href="{{ $project.url }}">Github</a>
+    </li>
+    {{ end }}
+  </ul>
+{{ end }}

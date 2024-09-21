@@ -1,0 +1,34 @@
+{
+ "list": [
+    {
+       "name":"Eve",
+       "url":"https://github.com/rxgoa/EveProject",
+       "desc":"A simplde LLM Discord bot app powered by LangGraph."
+    },
+    {
+       "name":"PageCraft",
+       "url":"https://github.com/rxgoa/PageCraft",
+       "desc":"MinMaxing your reading game."
+    },
+    {
+      "name":"iForgot",
+      "url":"https://github.com/rodrigodata/iforgot",
+      "desc":"Telegram bot that generates you need passwords and reminds you to create new ones."
+    },
+    {
+      "name":"Currency",
+      "url":"https://github.com/rodrigodata/telegram-cotacao",
+      "desc":"Telegram bot that gives you exchange rates for a few currencies."
+    },
+    {
+      "name":"ZenYoutubeFeed",
+      "url":"https://github.com/rxgoa/ZenYouTubeFeed",
+      "desc":"Firefox extension to clean your Youtube Feed."
+   },
+    {
+      "name":"lab-grpc-api",
+      "url":"https://github.com/rxgoa/lab-grpc-api",
+      "desc":"Study case for gRPC."
+   }
+ ]
+}

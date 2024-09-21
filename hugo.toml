@@ -1,0 +1,37 @@
+baseURL = 'https://rxgoa.tech/'
+languageCode = 'en-us'
+title = 'rxgoa'
+theme = 'cactus'
+
+
+[params]
+  colortheme = "classic" # dark, light, white, or classic
+  css = ["css/custom.css"]
+  description = "hello. I'm rxgoa. or you can call me data. This is my hub where you can find a little about what I've done or been thinking in doing. Feel free to reach out to me and have a chat."
+  showProjectsList = true
+  showWritingList = true
+  showAllPostsOnHomePage = false
+  postsOnHomePage = 5
+  projectsUrl = "https://github.com/rxgoa"
+  rss = true
+  mainSection = "Projects"
+  mainSectionTitle = "Reading list"
+
+
+[[params.social]]
+  name = "github"
+  link = "https://github.com/rxgoa"
+
+[[params.social]]
+  name = "x-twitter"
+  link = "https://x.com/rxgoa"
+
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "All projects"
+url = "/projects"
+weight = 2
