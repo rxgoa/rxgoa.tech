@@ -2,6 +2,7 @@ baseURL = 'https://rxgoa.tech/'
 languageCode = 'en-us'
 title = 'rxgoa'
 theme = 'cactus'
+googleAnalytics = 'G-35EJL10QM5'
 
 [params]
   colortheme = "classic" # dark, light, white, or classic

@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "styles.css",
-	"sourceRoot": "/home/rxgoa/projects/repos/rxgoa",
+	"sourceRoot": "/home/rxgoa/projects/repos/rxgoa-website",
 	"sources": [
 		"themes/cactus/assets/scss/style.scss",
 		"themes/cactus/assets/scss/_variables.scss",
